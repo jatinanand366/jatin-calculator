@@ -1,0 +1,22 @@
+{
+  "name": "jatin-calculator",
+  "version": "1.0.0",
+  "description": "npm package to calculate numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinanand366/jatin-calculator.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jatin anand",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jatinanand366/jatin-calculator/issues"
+  },
+  "homepage": "https://github.com/jatinanand366/jatin-calculator#readme"
+}
